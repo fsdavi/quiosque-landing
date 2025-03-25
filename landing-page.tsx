@@ -689,14 +689,14 @@ export default function LandingPage() {
                   <div className="overflow-hidden rounded-full">
                     <img
                       src="/mariel.jpg?height=200&width=200"
-                      alt="Marianna Aryel"
+                      alt="Marianna Ariel"
                       width={150}
                       height={150}
                       className="aspect-square object-cover"
                     />
                   </div>
                   <div className="space-y-1 text-center">
-                    <h4 className="text-xl font-bold">Marianna Aryel</h4>
+                    <h4 className="text-xl font-bold">Marianna Ariel</h4>
                     <p className="text-sm text-muted-foreground">Desenvolvedora</p>
                   </div>
                 </motion.div>
